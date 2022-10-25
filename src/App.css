@@ -1,0 +1,24 @@
+.list{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    background-color: darkgray;
+  }
+  
+  .img{
+    height: 400px;
+  }
+  
+  #search{
+    width: 20%;
+  }
+  .cont{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+  }
+  .addmovie{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+  }
